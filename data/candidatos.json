@@ -19,5 +19,12 @@
     "rol": "profe",
     "propuesta": "enseñar",
     "estado": "Perfil de práctica académica"
+  },
+  {
+    "id": 1780086060593,
+    "nombre": "lucas",
+    "rol": "veedor",
+    "propuesta": "comer todo",
+    "estado": "Perfil de práctica académica"
   }
 ]

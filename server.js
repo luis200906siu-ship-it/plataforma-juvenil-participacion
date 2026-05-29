@@ -8,7 +8,8 @@ const PORT = 3000;
 app.use(express.json());
 app.use(express.static(__dirname));
 
-const rutaCandidatos = path.join(__dirname, "dataconst rutaVotos = path.join(__dirname, "data", "votos.json");
+const rutaCandidatos = path.join(__dirname, "data", "candidatos.json");
+const rutaVotos = path.join(__dirname, "data", "votos.json");
 
 function leerVotos() {
   const data = fs.readFileSync(rutaVotos, "utf8");
@@ -17,8 +18,7 @@ function leerVotos() {
 
 function guardarVotos(votos) {
   fs.writeFileSync(rutaVotos, JSON.stringify(votos, null, 2));
-} ", "candidatos.json");
-
+} 
 
 function leerCandidatos() {
   const data = fs.readFileSync(rutaCandidatos, "utf8");

@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": 1780086094189,
+    "identificacion": "12345678",
+    "candidato": "luis romeo",
+    "fecha": "2026-05-29T20:21:34.189Z"
+  },
+  {
+    "id": 1780086168952,
+    "identificacion": "12345676",
+    "candidato": "petro",
+    "fecha": "2026-05-29T20:22:48.952Z"
+  }
+]
