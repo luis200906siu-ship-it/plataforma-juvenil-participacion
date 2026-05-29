@@ -25,4 +25,4 @@ botonesPerfil.forEach(function (boton) {
       </p>
     `;
   });
-});
+}); 
