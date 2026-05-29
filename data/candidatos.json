@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": 1780025492492,
+    "nombre": "luis romeo",
+    "rol": "veedor",
+    "propuesta": "organzador",
+    "estado": "Perfil de práctica académica"
+  },
+  {
+    "id": 1780025882708,
+    "nombre": "lucho fria",
+    "rol": "presidente",
+    "propuesta": "robar a la gente",
+    "estado": "Perfil de práctica académica"
+  },
+  {
+    "id": 1780025897721,
+    "nombre": "petro",
+    "rol": "profe",
+    "propuesta": "enseñar",
+    "estado": "Perfil de práctica académica"
+  }
+]
