@@ -28,5 +28,23 @@
     "identificacion": "3445668",
     "candidato": "lucas",
     "fecha": "2026-05-29T22:10:38.836Z"
+  },
+  {
+    "id": 1780094242864,
+    "identificacion": "123455555",
+    "candidato": "petro",
+    "fecha": "2026-05-29T22:37:22.864Z"
+  },
+  {
+    "id": 1780094253834,
+    "identificacion": "234567",
+    "candidato": "lucho fria",
+    "fecha": "2026-05-29T22:37:33.834Z"
+  },
+  {
+    "id": 1780094273408,
+    "identificacion": "2345655",
+    "candidato": "petro",
+    "fecha": "2026-05-29T22:37:53.408Z"
   }
 ]
