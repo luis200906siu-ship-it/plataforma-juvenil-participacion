@@ -10,5 +10,23 @@
     "identificacion": "12345676",
     "candidato": "petro",
     "fecha": "2026-05-29T20:22:48.952Z"
+  },
+  {
+    "id": 1780092614362,
+    "identificacion": "123456782",
+    "candidato": "petro",
+    "fecha": "2026-05-29T22:10:14.362Z"
+  },
+  {
+    "id": 1780092628081,
+    "identificacion": "223446677",
+    "candidato": "petro",
+    "fecha": "2026-05-29T22:10:28.081Z"
+  },
+  {
+    "id": 1780092638836,
+    "identificacion": "3445668",
+    "candidato": "lucas",
+    "fecha": "2026-05-29T22:10:38.836Z"
   }
 ]
